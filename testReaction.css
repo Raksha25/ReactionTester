@@ -1,0 +1,53 @@
+
+        #shape {
+            height: 100px;
+            width: 100px;
+            border-radius: 0px;
+            background-color: black;
+            display: none;
+            position: relative;
+            top: 100px;
+            left: 100px;
+            /* border: black 1px solid; */
+        }
+
+        body {
+
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: black;
+            /* text-shadow: px 10px 5px #FFFFFF; */
+            font-family: 'Annie Use Your Telescope';
+            /* background-color: whitesmoke; */
+            /* align-self: center; */
+            font-size: 400%;
+
+        }
+
+        p {
+            padding: 0;
+            margin: 0;
+            /* align-self: center; */
+            /* background-color: whitesmoke; */
+        }
+
+        #title {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 10px #FDC9B3 solid;
+            height: 200px;
+            flex-direction: column;
+
+
+        }
+
+        #text {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
