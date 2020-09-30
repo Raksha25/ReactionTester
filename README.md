@@ -1,6 +1,18 @@
 # ReactionTester
 Reaction Tester is a simple game where user taps/clicks on different objects which appear randomly on the screen to test the response time of and record the same. It is initially developed using HTML, CSS and JavaScript.
 
+## How can you contribute to ReactionTester?
+* Make a valid Pull Request. 
+  * Your change should create a difference in output towards improvement.
+  * Enhancing readability of existing code is valid.
+  * Improving README is valid.
+  
+* Few ideas which can be added in the initial state of ReactionTester (Definitely all ideas are welcomed these are just suggestions):
+  * Adding dark mode.
+  * Adding a start/stop button.
+  * Styling can be improved.
+  
+* If you feel like contibuting in any other way and do not find it among above mentioned points, do comment about it!
 ## How to make a Pull Request?
 - First, fork this repository and follow the given instructions:
 
@@ -38,19 +50,6 @@ $ git push                   #from second push onwards
 - Give a message in the comment box about the PR
 - Submission is completed, it will accpeted and merged after review.
 
-
-## How can you contribute to ReactionTester?
-* Make a valid Pull Request. 
-  * Your change should create a difference in output towards improvement.
-  * Enhancing readability of existing code is valid.
-  * Improving README is valid.
-  
-* Few ideas which can be added in the initial state of ReactionTester (Definitely all ideas are welcomed these are just suggestions):
-  * Adding dark mode.
-  * Adding a start/stop button.
-  * Styling can be improved.
-  
-* If you feel like contibuting in any other way and do not find it among above mentioned points, do comment about it!
 
 ## Hacktober Fest
 > It is the best time to start learning about open source. This year in Oct 2020, you have to make 4 valid PR's in Public repositories, to be a part and succesfully completing the same.
